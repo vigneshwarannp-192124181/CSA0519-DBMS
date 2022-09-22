@@ -1,0 +1,50 @@
+mysql> create function incomelevel(month_value int)
+    -> returns varchar(20)
+    -> DETERMINISTIC
+    -> begin
+    -> declare in_level varchar(20);
+    -> case month_value
+    ->  when 4000 then
+    ->   set in_level='low income';
+    ->  when 5000 then
+    ->   set in_level='avg income';
+    ->  else
+    ->   set in_level='high income';
+    -> end case;
+    -> return in_level;
+    -> end;
+    -> //
+Query OK, 0 rows affected (0.03 sec)
+
+mysql> select incomelevel(5400);//
++-------------------+
+| incomelevel(5400) |
++-------------------+
+| high income       |
++-------------------+
+1 row in set (0.02 sec)
+mysql> create function calcincome2(starting_value int)
+    -> returns int
+    -> DETERMINISTIC
+    -> begin
+    ->  declare income int;
+    ->  set income=0;
+    ->  label1:loop
+    ->   set income=income+starting_value;
+    ->   if income <4000 then
+    ->    iterate label1;
+    ->   end if;
+    ->   leave label1;
+    ->  end loop label1;
+    ->  return income;
+    -> end;//
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> select calcincome2(2100);
+    -> //
++-------------------+
+| calcincome2(2100) |
++-------------------+
+|              4200 |
++-------------------+
+1 row in set (0.00 sec)
