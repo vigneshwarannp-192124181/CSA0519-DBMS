@@ -60,4 +60,7 @@
 ## EXPERIMENT 15
 [CSA0519-15](https://github.com/vigneshwarannp-192124181/CSA0519-DBMS/blob/main/EXPERIMENT%2015)
 ![image](https://user-images.githubusercontent.com/113887879/192004423-cfe53899-a979-4084-a6fd-5ba86987ddf0.png)
+## EXPERIMENT 16
+[CSDA0519-16](https://github.com/vigneshwarannp-192124181/CSA0519-DBMS/blob/main/experiment%2016)
+![image](https://user-images.githubusercontent.com/113887879/192004633-b220acdc-507d-4fff-ac9c-f97cb759a3eb.png)
 
