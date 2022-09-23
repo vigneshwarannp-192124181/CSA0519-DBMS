@@ -88,6 +88,10 @@
 [CSA0519-23](https://github.com/vigneshwarannp-192124181/CSA0519-DBMS/blob/main/EXPT%2023.txt)
 ![image](https://user-images.githubusercontent.com/113887879/192006916-03a3701f-b905-47e8-ad94-cbcdbee4e2ef.png)
 ![image](https://user-images.githubusercontent.com/113887879/192006948-7fc9d65c-50e1-4925-9cd4-dd95257d9f84.png)
+## EXPERIMENT 24
+[CSA0519-24](https://github.com/vigneshwarannp-192124181/CSA0519-DBMS/blob/main/EXPT%2024.txt)
+![image](https://user-images.githubusercontent.com/113887879/192007260-37bc4f9b-4382-424d-968c-6b15a1427876.png)
+![image](https://user-images.githubusercontent.com/113887879/192007299-b2f95a96-8198-41bd-a9bd-5865ccdecdae.png)
 
 
 
