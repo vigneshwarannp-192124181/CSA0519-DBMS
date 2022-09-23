@@ -29,3 +29,8 @@
 ##EXPERIMENT 7
 [CSA0519-7](https://github.com/vigneshwarannp-192124181/CSA0519-DBMS/blob/main/EXPERIMENT%207)
 ![image](https://user-images.githubusercontent.com/113887879/191762679-de1db4f7-a5fb-42b4-b3a6-885e5c5245ca.png)
+##EXPERIMENT 8
+[CSA0519-8](https://github.com/vigneshwarannp-192124181/CSA0519-DBMS/blob/main/EXPERIMENT%208)
+![image](https://user-images.githubusercontent.com/113887879/192001823-91ea12b0-754e-48e8-86a5-f83bc673688c.png)
+![image](https://user-images.githubusercontent.com/113887879/192001879-609be1af-3449-41a6-9a90-d776f9277328.png)
+![image](https://user-images.githubusercontent.com/113887879/192001953-7f85f299-0d3c-4f45-a19f-cdc89f903f96.png)
