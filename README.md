@@ -80,6 +80,10 @@
 ![image](https://user-images.githubusercontent.com/113887879/192006293-56ecad79-a140-4e46-89c4-3663f6a60fab.png)
 ![image](https://user-images.githubusercontent.com/113887879/192006345-7b4aaf9a-7a97-46f8-be7f-a43a92cbc30e.png)
 ![image](https://user-images.githubusercontent.com/113887879/192006393-93ab3594-a9b9-4081-96fc-eaccc8f65ff3.png)
+## EXPERIMENT 22
+[CSA0519-22](https://github.com/vigneshwarannp-192124181/CSA0519-DBMS/blob/main/EXPT%2022.txt)
+![image](https://user-images.githubusercontent.com/113887879/192006675-25285db6-feb1-4092-8a01-590a4eaabf42.png)
+![image](https://user-images.githubusercontent.com/113887879/192006717-ed82b5b0-3463-430b-8dfd-0853dd2722e5.png)
 
 
 
