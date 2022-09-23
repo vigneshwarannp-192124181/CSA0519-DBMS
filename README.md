@@ -66,4 +66,7 @@
 ## EXPERIMENT 17
 [CSA0519-17](https://github.com/vigneshwarannp-192124181/CSA0519-DBMS/blob/main/experiment%2017)
 ![image](https://user-images.githubusercontent.com/113887879/192004950-72454294-7720-4101-b644-b0990205f8a1.png)
+## EXPERIMENT 18
+[CSA0519-18](https://github.com/vigneshwarannp-192124181/CSA0519-DBMS/blob/main/EXPERIMENT%2018)
+![image](https://user-images.githubusercontent.com/113887879/192005367-7859ded9-b5ce-463a-80e5-cf63046d3cd6.png)
 
